@@ -1,4 +1,4 @@
-# Ridge and LAsso regression:
+# Ridge and Lasso regression:
 
 library(glmnet)
 library(leaps)
